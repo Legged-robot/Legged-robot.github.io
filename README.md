@@ -1,1 +1,1 @@
-# Legged-robot.github.io
+# To be extended with images and code
